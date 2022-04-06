@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AgoraRtcKit",
-            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Beta/4.0.0-beta.1/AgoraRtcKit.xcframework.zip",
-            checksum: "7162f899503c42e78efc2f40f82b5bef56ffb8ae03d6b12dd8f3dabfca703c4f"
+            url: "https://download.agora.io/swiftpm_3/AgoraRtcEngine_iOS_Voice_Beta/4.0.0-beta.1/AgoraRtcKit.xcframework.zip",
+            checksum: "41cc011b370925195650fe5e5e7aa89300f8456632771f6b64ad11e46e741cc9"
         ),
     ]
 )
